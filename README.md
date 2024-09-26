@@ -1,7 +1,4 @@
-# project2
-
-**Cheat Sheets für Ubuntu-Terminal**
----
+# Cheat Sheets für Ubuntu-Terminal
  1. **Navigation im Dateisystem**
      - pwd - zeigt aktuellen Arbeitsverzeichnis-pfad an
      - ls - listet Dateien und Verzeichnisse im aktuellen Verzeichnis auf
